@@ -1,0 +1,3 @@
+cobra>=0.29
+pandas
+matplotlib
